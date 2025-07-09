@@ -16,7 +16,7 @@ This beginner-friendly project uses an Arduino, soil moisture sensor, and water 
 - Power Supply
 
 ## 🔌 Circuit Diagram
-Contact for more details.
+
 
 ## 💻 Code
 The Arduino reads soil moisture data. If the value drops below a threshold, it turns on the pump using the relay.
